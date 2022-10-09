@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 def solution(n, lost, reserve):
     arr = [0] * n # 체육복 가지고 있는 학생 수 만큼 배열 생성
 
@@ -19,9 +18,3 @@ def solution(n, lost, reserve):
             cnt += 1
     
     return cnt
-
-
-n = 10
-lost = [1, 3, 5, 7]
-reserve = [1, 3]
-solution(n, lost, reserve) # 확인용
