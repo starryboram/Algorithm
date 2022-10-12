@@ -19,3 +19,4 @@ for m in move: # 입력에 의한 움직임
 
 print(x, y)
 
+# 다시 한 번 풀어보기
