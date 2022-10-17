@@ -14,3 +14,4 @@
 # 6. 전력망을 둘로 나누기
 
 # 7. 모음사전
+![image](https://user-images.githubusercontent.com/102525066/196134892-2a9faf04-a85d-4677-8757-b63e38c62c6f.png)
