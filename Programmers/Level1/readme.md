@@ -16,7 +16,9 @@
 15.
 16.
 17.
-18.
+### 18. 삼총사
+![삼총사](https://user-images.githubusercontent.com/102525066/197123326-5408de59-8699-4d59-883b-52281b3c4198.PNG)
+
 ### 19. 로또의 최고 순위와 최저 순위
 ![image](https://user-images.githubusercontent.com/102525066/197122906-dd14393d-bb07-4984-b374-626de5bd1df6.png)
 ![image](https://user-images.githubusercontent.com/102525066/197122969-93fd7748-b202-433c-9fa5-86ffd2c185d4.png)
