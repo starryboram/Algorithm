@@ -14,8 +14,12 @@
 13.
 14.
 15.
-16.
-17.
+### 16. 2016년
+![image](https://user-images.githubusercontent.com/102525066/197239513-99e3efff-6039-4cdd-aeed-7c5cce88e4ea.png)
+
+### 17. 문자열 내 마음대로 정렬하기
+![image](https://user-images.githubusercontent.com/102525066/197239243-410e12e8-c20d-491f-9d56-bc46cdaef53f.png)
+
 ### 18. 삼총사
 ![삼총사](https://user-images.githubusercontent.com/102525066/197123326-5408de59-8699-4d59-883b-52281b3c4198.PNG)
 
