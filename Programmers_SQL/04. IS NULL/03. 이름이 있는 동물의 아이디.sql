@@ -1,0 +1,5 @@
+SELECT ANIMAL_ID
+FROM ANIMAL_INS
+WHERE NAME IS NOT NULL;
+
+-- 이름이 있는 애들만 뽑아내기 -> NOT NULL인 애들 뽑아내기
