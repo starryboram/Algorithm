@@ -20,8 +20,16 @@
 15. 조건에 맞는 회원수 구하기
 
 ### 2. SUM, MAX, MIN
+1. 가장 비싼 상품 구하기
+2. 가장 제일 비싼 식품의 정보 출력하기
+3. 최댓값 구하기
+4. 최솟값 구하기
+5. 동물 수 구하기
+6. 중복 제거하기
+
 ### 3. GROUP BY
-### 4. IS NULL
+
+### [4. IS NULL](https://github.com/starryboram/Algorithm/tree/main/Programmers_SQL/04.%20IS%20NULL)
 1. 경기도에 위치한 식품창고 목록 출력하기
 2. 이름이 없는 동물의 아이디
 3. 이름이 있는 동물의 아이디
@@ -29,4 +37,5 @@
 5. 나이 정보가 없는 회원 수 구하기
 
 ### 5. JOIN
+
 ### 6. String, Date
