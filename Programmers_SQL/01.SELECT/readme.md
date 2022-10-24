@@ -7,9 +7,17 @@
 ## 7. 재구매가 일어난 상품과 회원 리스트 구하기
 ## 8. 오프라인/온라인 판매 데이터 통합하기
 ## 9. 역순 정렬하기
+![image](https://user-images.githubusercontent.com/102525066/197431711-b385eaf6-4cc1-4a9e-bbfb-d8a51f8ee514.png)
+
 ## 10. 아픈동물찾기
+![image](https://user-images.githubusercontent.com/102525066/197431905-589aeb6d-7fb9-4b45-a1d7-71c828dc3cc4.png)
+
 ## 11. 어린 동물찾기
+![image](https://user-images.githubusercontent.com/102525066/197431942-a916db42-a0b8-4df4-b9dc-53b911006dca.png)
+
 ## 12. 동물의 아이디와 이름
+![image](https://user-images.githubusercontent.com/102525066/197431665-36624ac6-0b7a-4bf3-8a20-42e9e98aab3b.png)
+
 ## 13. 여러 기준으로 정렬하기
 ![image](https://user-images.githubusercontent.com/102525066/197247996-f9a8d71d-2429-478f-887e-513aabd9c796.png)
 
