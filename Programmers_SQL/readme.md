@@ -2,7 +2,7 @@
 
 프로그래머스에 있는 SQL 고득점kit 문제풀이 저장소입니다.
 
-### 1. SELECT
+### [1. SELECT](https://github.com/starryboram/Algorithm/tree/main/Programmers_SQL/01.SELECT)
 1. 강원도에 위치한 생산공장 목록 출력하기
 2. 3월에 태어난 여성 회원 목록 출력하기
 3. 서울에 위치한 식당 목록 출력하기
