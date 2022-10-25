@@ -14,9 +14,20 @@
 ![image](https://user-images.githubusercontent.com/102525066/197672031-1d87fef9-6c6c-425f-b69d-7076f94a4dde.png)
 
 ## 5. 서울에 위치한 식당 목록 출력하기
+![image](https://user-images.githubusercontent.com/102525066/197815435-0523d24c-070f-43aa-b94f-c62b0e6ef0b1.png)
+![image](https://user-images.githubusercontent.com/102525066/197815515-4f3bfa02-81fb-480f-b59e-646b810d8f19.png)
+
 ## 6. 재구매가 일어난 상품과 회원 리스트 구하기
+![image](https://user-images.githubusercontent.com/102525066/197815226-ed0e7498-0c9b-4cdb-90c6-5f23b79e4235.png)
+![image](https://user-images.githubusercontent.com/102525066/197815302-1b475b35-2ef9-467a-b805-e3b026c3b44f.png)
+
 ## 7. 모든 레코드 조회하기
+![image](https://user-images.githubusercontent.com/102525066/197814732-b6f79caf-6f8c-4dff-98bb-bd3760e4f66b.png)
+
 ## 8. 오프라인/온라인 판매 데이터 통합하기
+![image](https://user-images.githubusercontent.com/102525066/197814876-4c7c4de9-a452-4ad2-8cdb-f2071215e612.png)
+![image](https://user-images.githubusercontent.com/102525066/197815052-bd243da6-d53c-4e45-b018-97908ee07b7b.png)
+
 ## 9. 역순 정렬하기
 ![image](https://user-images.githubusercontent.com/102525066/197431711-b385eaf6-4cc1-4a9e-bbfb-d8a51f8ee514.png)
 
