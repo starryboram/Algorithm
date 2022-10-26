@@ -1,0 +1,7 @@
+SELECT DR_NAME, DR_ID, MCDP_CD, DATE_FORMAT(HIRE_YMD,'%Y-%m-%d') AS HIRE_YMD
+FROM DOCTOR
+WHERE MCDP_CD = 'CS' OR MCDP_CD = 'GS'
+ORDER BY HIRE_YMD DESC, DR_NAME;
+
+-- 'CS' 이거나 'GS'인 의사 출력하기 -> OR 이용해서 작성하기
+-- DATE_FORMAT이 많이 쓰이니까 잘 알아두기!
