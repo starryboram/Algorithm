@@ -19,7 +19,7 @@
 14. 상위 n개 레코드
 15. 조건에 맞는 회원수 구하기
 
-### 2. SUM, MAX, MIN
+### [2. SUM, MAX, MIN](https://github.com/starryboram/Algorithm/tree/main/Programmers_SQL/02.%20SUM%2C%20MAX%2C%20MIN)
 1. 가장 비싼 상품 구하기
 2. 가장 제일 비싼 식품의 정보 출력하기
 3. 최댓값 구하기
