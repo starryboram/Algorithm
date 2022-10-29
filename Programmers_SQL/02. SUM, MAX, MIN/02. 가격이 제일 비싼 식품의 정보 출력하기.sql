@@ -1,0 +1,14 @@
+-- 시도 (탈락)
+SELECT PRODUCT_ID, PRODUCT_NAME, PRODUCT_CD, CATEGORY, MAX(PRICE) AS PRICE
+FROM FOOD_PRODUCT;
+-- 이유? MAX의 경우에는 각 컬럼마다 MAX값을 뽑아서 보여줌 -> 다른 방식으로 접근이 필요함
+
+-- 방법 1. PRICE 기준으로 정렬해서 위에꺼 출력하기 - 통과
+SELECT * FROM FOOD_PRODUCT
+ORDER BY PRICE DESC
+LIMIT 1;
+
+-- 방법 2. 서브 쿼리 이용 - 통과 
+SELECT *
+FROM FOOD_PRODUCT
+WHERE PRICE IN (SELECT MAX(PRICE) FROM FOOD_PRODUCT);
