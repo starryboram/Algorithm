@@ -1,0 +1,5 @@
+SELECT FLAVOR
+FROM FIRST_HALF
+ORDER BY TOTAL_ORDER DESC, SHIPMENT_ID;
+
+-- 먼저 충족해야할 조건을 앞에 쓰고, ','로 조건을 나열하면 됨.
