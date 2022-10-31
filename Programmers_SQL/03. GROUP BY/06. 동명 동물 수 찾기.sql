@@ -1,0 +1,11 @@
+SELECT NAME, COUNT(NAME) COUNT
+FROM ANIMAL_INS
+WHERE NAME IS NOT NULL
+GROUP BY NAME
+HAVING COUNT >=2
+ORDER BY NAME;
+
+-- 동물 이름 중 두번 이상 쓰인 이름 -> HAVING COUNT >= 2
+-- 해당 이름이 쓰인 횟수를 조회 -> COUNT(NAME)
+-- 이름 없는 동물은 집계에서 제외 -> WHERE NAME IS NOT NULL
+-- 결과는 이름 순으로 조회 -> ORDER BY NAME

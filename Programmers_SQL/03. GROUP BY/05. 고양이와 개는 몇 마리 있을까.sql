@@ -1,0 +1,7 @@
+SELECT ANIMAL_TYPE, COUNT(ANIMAL_TYPE) count
+FROM ANIMAL_INS
+GROUP BY ANIMAL_TYPE
+ORDER BY ANIMAL_TYPE;
+
+-- 몇 마리 있는지 조회 -> COUNT 함수 사용하기
+-- 고양이를 개보다 먼저 조회 -> OREDR 사용하기
