@@ -9,6 +9,11 @@
 ![image](https://user-images.githubusercontent.com/102525066/198928339-0833ce0d-312d-4fc2-9b78-2dfd0d7f0e80.png)
 
 ## 7. 입양 시각 구하기(1)
+![image](https://user-images.githubusercontent.com/102525066/199040329-b12083c3-d594-4281-972d-8a06d30d7d93.png)
+
 ## 8. 년, 월, 성별 별 상품 구매 회원 수 구하기
 ## 9. 입양 시각 구하기(2)
+![image](https://user-images.githubusercontent.com/102525066/199040522-9aa2ea6c-3541-42ac-883d-57bdb6829f45.png)
+![image](https://user-images.githubusercontent.com/102525066/199040590-ddacf365-3004-473f-9aa3-b9ce800190dd.png)
+
 ## 10. 가격대 별 상품 개수 구하기
