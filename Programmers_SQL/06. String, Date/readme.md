@@ -1,7 +1,11 @@
 ## 1. 취소되지 않은 진료 예약 조회하기
 ## 2. 조건별로 분류하여 주문상태 출력하기'
 ## 3. 루시와 엘라 찾기
+![image](https://user-images.githubusercontent.com/102525066/200117352-c14e8a38-2f23-4dd5-9432-74b0e27297f8.png)
+
 ## 4. 이름에 el이 들어가는 동물 찾기
+![image](https://user-images.githubusercontent.com/102525066/200117310-8e0438e1-4232-4ea8-bed2-10d6968f873c.png)
+
 ## 5. 중성화 여부 파악하기
 ![image](https://user-images.githubusercontent.com/102525066/199264034-f66552a4-d9c9-4a83-b8e1-d2b7b36c740f.png)
 
