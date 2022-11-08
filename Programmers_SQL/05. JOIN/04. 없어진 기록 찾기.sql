@@ -1,0 +1,9 @@
+SELECT a.ANIMAL_ID, a.NAME
+FROM ANIMAL_OUTS a
+LEFT JOIN ANIMAL_INS b
+ON a.ANIMAL_ID = b.ANIMAL_ID
+WHERE b.ANIMAL_ID is NULL
+ORDER BY 1;
+
+-- JOIN 할 때에는 별칭을 씀 a, b 처럼
+-- 데이터 유실이 됨 -> b.ANIMAL_ID is NULL
