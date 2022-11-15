@@ -29,7 +29,7 @@
 5. 동물 수 구하기
 6. 중복 제거하기
 
-### 3. GROUP BY
+### [3. GROUP BY](https://github.com/starryboram/Algorithm/tree/main/Programmers_SQL/03.%20GROUP%20BY)
 1. 진료과별 총 예약 횟수 출력하기
 2. 식품분류별 가장 비싼 식품의 정보 조회하기
 3. 성분으로 구분한 아이스크림 총 주문량
