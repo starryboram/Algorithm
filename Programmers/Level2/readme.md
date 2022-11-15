@@ -1,4 +1,6 @@
-## 1.
+## 1. 짝지어 제거하기
+![image](https://user-images.githubusercontent.com/102525066/201910947-2d4e6452-4bd2-4832-a5a8-ff161b0248cb.png)
+
 ## 2.
 ## 3.
 ## 4.
