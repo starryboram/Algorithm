@@ -48,3 +48,16 @@
 
 ## 15. 조건에 맞는 회원수 구하기
 ![image](https://user-images.githubusercontent.com/102525066/197246630-5d3b607a-4a6b-44eb-ac63-a97e1cf00cfa.png)
+
+## 16. 과일로 만든 아이스크림 고르기
+![image](https://user-images.githubusercontent.com/102525066/202609983-dbfc75ed-4940-4d25-a089-a0c45262eb03.png)
+![image](https://user-images.githubusercontent.com/102525066/202610011-757bfca4-f306-4a05-bc47-5af245463124.png)
+
+## 17. 인기있는 아이스크림
+![image](https://user-images.githubusercontent.com/102525066/202609790-b1ccf6cf-afa0-4794-9372-a04f7d1032d0.png)
+![image](https://user-images.githubusercontent.com/102525066/202609830-1885b9e4-d8e0-4ca1-9b95-24502800a7a4.png)
+
+## 18. 오프라인/온라인 판매 데이터 통합하기
+![image](https://user-images.githubusercontent.com/102525066/202609680-7b1ee574-b83a-420a-9f53-010b3f322148.png)
+![image](https://user-images.githubusercontent.com/102525066/202609725-5f159c4e-7b43-4d23-880c-182f14641332.png)
+
