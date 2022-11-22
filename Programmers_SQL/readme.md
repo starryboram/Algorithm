@@ -59,7 +59,7 @@
 8. 상품 별 오프라인 매출 구하기
 9. 상품을 구매한 회원 비율 구하기
 
-### 6. String, Date
+### [6. String, Date](https://github.com/starryboram/Algorithm/tree/main/Programmers_SQL/06.%20String%2C%20Date)
 1. 취소되지 않은 진료 예약 조회하기
 2. 조건별로 분류하여 주문상태 출력하기
 3. 루시와 엘라 찾기

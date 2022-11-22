@@ -6,3 +6,8 @@
 
 ## 문제 3. 없는 숫자 더하기
 ![월간코드챌린지3_없는 숫자 더하기](https://user-images.githubusercontent.com/102525066/196911294-2697df81-28b3-4bf6-8a4e-98ddb500d11c.PNG)
+
+## 문제 4. 괄호 회전하기
+![image](https://user-images.githubusercontent.com/102525066/203068925-296918cf-2858-48cf-ae6d-3efc1e5536a3.png)
+![image](https://user-images.githubusercontent.com/102525066/203068865-c0446c99-4f39-4c29-803d-96a764b7b0aa.png)
+![image](https://user-images.githubusercontent.com/102525066/203069018-2b783db4-4367-42a1-9a49-886a820c9243.png)

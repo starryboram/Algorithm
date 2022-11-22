@@ -1,5 +1,10 @@
 ## 1. 취소되지 않은 진료 예약 조회하기
-## 2. 조건별로 분류하여 주문상태 출력하기'
+![image](https://user-images.githubusercontent.com/102525066/202935515-e6cbf56e-4175-4936-beff-6e3240ad37f1.png)
+![image](https://user-images.githubusercontent.com/102525066/202935552-19c7c594-a4ec-4061-8fe7-9c5db3c6771f.png)
+
+## 2. 조건별로 분류하여 주문상태 출력하기
+![image](https://user-images.githubusercontent.com/102525066/202935483-f15bb3f2-8aa4-4b31-8d13-1337dfb98af1.png)
+
 ## 3. 루시와 엘라 찾기
 ![image](https://user-images.githubusercontent.com/102525066/200117352-c14e8a38-2f23-4dd5-9432-74b0e27297f8.png)
 
