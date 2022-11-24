@@ -10,7 +10,9 @@
 ## 4. 숫자의 표현
 ![image](https://user-images.githubusercontent.com/102525066/202324678-5a88da1d-b21b-4461-921b-cbdd03da3ff1.png)
 
-## 5.
+## 5. 다음 큰 숫자
+![image](https://user-images.githubusercontent.com/102525066/203796250-2cea7eb1-4f6b-4da4-8d62-89b40ca0b23e.png)
+
 ## 6.
 ## 7.
 ## 8.
