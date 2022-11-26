@@ -13,7 +13,7 @@ def solution(n):
 # 1이 더해졌다는건 1의 갯수가 더 많다는 것이기 때문에,
 # 반만 계산하게 되어 효율성 측면에서 더 좋아진다.
 
-# 개편 전 - 지금은 효율성에 걸림림
+# 개편 전 - 지금은 효율성에 걸림
 def nextBigNumber(n):
     num1 = bin(n).count('1')
     while True:
