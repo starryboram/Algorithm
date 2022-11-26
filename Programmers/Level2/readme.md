@@ -13,7 +13,9 @@
 ## 5. 다음 큰 숫자
 ![image](https://user-images.githubusercontent.com/102525066/203796250-2cea7eb1-4f6b-4da4-8d62-89b40ca0b23e.png)
 
-## 6.
+## 6. 예상 대진표
+![image](https://user-images.githubusercontent.com/102525066/204096229-3acd5a22-7489-46eb-a0ad-3bc2563a12f9.png)
+
 ## 7.
 ## 8.
 ## 9.
