@@ -48,7 +48,7 @@
 4. NULL 처리하기
 5. 나이 정보가 없는 회원 수 구하기
 
-### 5. JOIN
+### [5. JOIN](https://github.com/starryboram/Algorithm/tree/main/Programmers_SQL/05.%20JOIN)
 1. 5월 식품들의 총매출 조회하기
 2. 그룹별 조건에 맞는 식당 목록 출력하기
 3. 주문량이 많은 아이스크릳믈 조회하기
