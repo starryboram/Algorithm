@@ -1,4 +1,7 @@
 ## 1. 5월 식품들의 총매출 조회하기
+![image](https://user-images.githubusercontent.com/102525066/204169113-e8118b92-5a11-42d4-96df-c7fa35f5af7f.png)
+![image](https://user-images.githubusercontent.com/102525066/204169149-5bfb6d9c-fa0a-4380-b46f-b61369230879.png)
+
 ## 2. 그룹별 조건에 맞는 식당 목록 출력하기
 ## 3. 주문량이 많은 아이스크림들 조회하기
 ## 4. 없어진 기록 찾기
