@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/102525066/195338251-14db80c0-4837-40ec-82ec-13917d809c04.png)
 
 # 04. 프린터
+![image](https://user-images.githubusercontent.com/102525066/205855101-53c03cad-7636-4035-9254-a0d167d8ec4f.png)
 
 # 05. 다리를 지나는 트럭
 
