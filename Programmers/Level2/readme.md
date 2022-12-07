@@ -22,7 +22,9 @@
 ## 8. 피보나치 수
 ![image](https://user-images.githubusercontent.com/102525066/206146559-349000bf-3144-4d62-b4d8-b5f78b28180e.png)
 
-## 9.
+## 9. N개의 최소공배수
+![image](https://user-images.githubusercontent.com/102525066/206184009-b764836c-9ae4-4d2e-9755-347e991e1be3.png)
+
 ## 10.
 ## 11.
 ## 12.
