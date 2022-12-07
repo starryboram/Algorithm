@@ -16,10 +16,12 @@
 ## 6. 예상 대진표
 ![image](https://user-images.githubusercontent.com/102525066/204096229-3acd5a22-7489-46eb-a0ad-3bc2563a12f9.png)
 
-## 7.최댓값과 최솟값
+## 7. 최댓값과 최솟값
 ![image](https://user-images.githubusercontent.com/102525066/205439006-15d978d6-10f0-4400-9a94-aa431059d040.png)
 
-## 8.
+## 8. 피보나치 수
+![image](https://user-images.githubusercontent.com/102525066/206146559-349000bf-3144-4d62-b4d8-b5f78b28180e.png)
+
 ## 9.
 ## 10.
 ## 11.
