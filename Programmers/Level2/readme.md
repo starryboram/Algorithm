@@ -25,7 +25,9 @@
 ## 9. N개의 최소공배수
 ![image](https://user-images.githubusercontent.com/102525066/206184009-b764836c-9ae4-4d2e-9755-347e991e1be3.png)
 
-## 10.
+## 10. 멀리 뛰기
+![image](https://user-images.githubusercontent.com/102525066/206478234-55ecb774-2525-4ec4-90f3-d51bf18845e7.png)
+
 ## 11.
 ## 12.
 ## 13.
