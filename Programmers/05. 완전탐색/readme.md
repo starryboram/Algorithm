@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/102525066/194741255-23167457-a582-4d53-b052-999c3a28c253.png)
 
 # 4. 카펫
+![image](https://user-images.githubusercontent.com/102525066/207588134-e39c3920-c25d-421e-9e7a-9e8cfd6945c9.png)
 
 # 5. 피로도
 
