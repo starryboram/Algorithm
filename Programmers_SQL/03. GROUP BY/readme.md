@@ -34,3 +34,5 @@
 ## 10. 가격대 별 상품 개수 구하기
 ![image](https://user-images.githubusercontent.com/102525066/201799707-571fa78d-d95d-4c60-9491-e8587d304162.png)
 
+## 11. 카테고리 별 도서 판매량 집계하기
+![image](https://user-images.githubusercontent.com/102525066/208286564-da82616a-e0a5-4ad0-922e-5386477cb5f0.png)
