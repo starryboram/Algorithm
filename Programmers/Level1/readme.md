@@ -7,7 +7,9 @@
 6.
 7.
 8.
-9.
+### 9. 과일 장수
+![image](https://user-images.githubusercontent.com/102525066/208327956-9f4b58a2-b9b3-4a15-ab77-c0ed8ad489ce.png)
+
 ### 10. 가장 가까운 같은 글자
 ![image](https://user-images.githubusercontent.com/102525066/206894725-e8468577-6462-4f02-b135-c478e62f88c3.png)
 
