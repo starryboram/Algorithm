@@ -32,7 +32,9 @@
 ![image](https://user-images.githubusercontent.com/102525066/208023562-07f00a0c-9df8-46ae-a823-4be63a0ac625.png)
 ![image](https://user-images.githubusercontent.com/102525066/208023626-8f76a94c-f798-48a1-9ad6-bb8f536e47c0.png)
 
-## 12.
+## 12. 점프와 순간 이동
+![image](https://user-images.githubusercontent.com/102525066/209117218-1176c871-ddf9-4818-af69-9ec12a796ab6.png)
+
 ## 13.
 ## 14.
 ## 15.
