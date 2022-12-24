@@ -6,7 +6,9 @@
 5.
 6.
 7.
-8.
+### 8. 크기가 작은 부분문자열
+![image](https://user-images.githubusercontent.com/102525066/209430488-7d7da521-512c-4687-942e-f650dc9f5f9e.png)
+
 ### 9. 과일 장수
 ![image](https://user-images.githubusercontent.com/102525066/208327956-9f4b58a2-b9b3-4a15-ab77-c0ed8ad489ce.png)
 
