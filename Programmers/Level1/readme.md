@@ -5,7 +5,10 @@
 4.
 5.
 6.
-7.
+### 7. 숫자 짝꿍
+![image](https://user-images.githubusercontent.com/102525066/209459644-0409d256-03e2-441c-92e4-c1d7b19a4c24.png)
+![image](https://user-images.githubusercontent.com/102525066/209459647-293b6605-9983-4cc2-aaa9-186a4863303b.png)
+
 ### 8. 크기가 작은 부분문자열
 ![image](https://user-images.githubusercontent.com/102525066/209430488-7d7da521-512c-4687-942e-f650dc9f5f9e.png)
 
