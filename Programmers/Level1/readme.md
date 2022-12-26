@@ -4,7 +4,9 @@
 3.
 4.
 5.
-6.
+### 6. 햄버거 만들기
+![image](https://user-images.githubusercontent.com/102525066/209487505-f80ac25f-28dd-4204-8d30-6fe31d9d1414.png)
+
 ### 7. 숫자 짝꿍
 ![image](https://user-images.githubusercontent.com/102525066/209459644-0409d256-03e2-441c-92e4-c1d7b19a4c24.png)
 ![image](https://user-images.githubusercontent.com/102525066/209459647-293b6605-9983-4cc2-aaa9-186a4863303b.png)
