@@ -1,4 +1,5 @@
 # 1. 더 맵게
+![image](https://user-images.githubusercontent.com/102525066/209615035-1deee397-1d43-400e-94a2-577c51454a6f.png)
 
 # 2. 디스크 컨트롤러
 
