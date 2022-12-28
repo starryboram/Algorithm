@@ -3,7 +3,9 @@
 ### 2. 예산
 3.
 4.
-5.
+### 5. 푸드 파이트 대회
+![image](https://user-images.githubusercontent.com/102525066/209742704-9b15aa23-c808-4a97-bcc8-e6d9dff48537.png)
+
 ### 6. 햄버거 만들기
 ![image](https://user-images.githubusercontent.com/102525066/209487505-f80ac25f-28dd-4204-8d30-6fe31d9d1414.png)
 
