@@ -2,7 +2,11 @@
 ### 1. 최대공약수와 최소공배수
 ### 2. 예산
 3.
-4.
+### 4. 명예의 전당(1)
+![image](https://user-images.githubusercontent.com/102525066/209889033-835b00ff-0753-446d-82d7-b78184f90a9d.png)
+![image](https://user-images.githubusercontent.com/102525066/209889041-0dbbf65a-dbd1-4c86-9325-08f685269050.png)
+
+
 ### 5. 푸드 파이트 대회
 ![image](https://user-images.githubusercontent.com/102525066/209742704-9b15aa23-c808-4a97-bcc8-e6d9dff48537.png)
 
