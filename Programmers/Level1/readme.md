@@ -1,7 +1,10 @@
 # Level1. 문제 풀이(업데이트 예정)
 ### 1. 최대공약수와 최소공배수
 ### 2. 예산
-3.
+### 3. 콜라 문제
+![image](https://user-images.githubusercontent.com/102525066/210032040-a2a8254a-ffac-44fb-afa0-a257971431dd.png)
+![image](https://user-images.githubusercontent.com/102525066/210032064-08eee18a-566b-47d5-9646-ea75a131ff36.png)
+
 ### 4. 명예의 전당(1)
 ![image](https://user-images.githubusercontent.com/102525066/209889033-835b00ff-0753-446d-82d7-b78184f90a9d.png)
 ![image](https://user-images.githubusercontent.com/102525066/209889041-0dbbf65a-dbd1-4c86-9325-08f685269050.png)
