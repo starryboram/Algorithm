@@ -35,7 +35,10 @@
 ## 12. 점프와 순간 이동
 ![image](https://user-images.githubusercontent.com/102525066/209117218-1176c871-ddf9-4818-af69-9ec12a796ab6.png)
 
-## 13.
+## 13. 귤 고르기
+![image](https://user-images.githubusercontent.com/102525066/210129554-c75a11e9-a7ad-4157-a40d-9ec22e75c383.png)
+![image](https://user-images.githubusercontent.com/102525066/210129562-8d899c41-3de0-42ca-9d62-2e3bd68e0b9d.png)
+
 ## 14.
 ## 15.
 ## 16.
