@@ -52,3 +52,16 @@ def solution(k, tangerine):
 # Counter(배열).most_common() => 배열중에 최빈값을 튜플형태로 담아낸다.
 # [1, 3, 2, 5, 4, 5, 2, 3] => [(3,2), (2,2), (5,2), (1,1), (4,1)]
 # 튜플형태로 담아내기 때문에 최빈값을 더하기 위해서는 리스트 원소의 [1]값을 더해주면 됨.
+
+
+# 다른 풀이
+from collections import Counter
+def solution(k, tangerine):
+    total, count = 0, Counter(tangerine) # Counter(배열) : 얘는 dictionary 형태로 나타나짐!
+    for index, each in enumerate(sorted(count.values(), reverse=True)):
+        total += each
+        if total >= k:
+            return index + 1
+    return k
+
+# enumerate 잊지말자!
