@@ -29,7 +29,9 @@
 ### 10. 가장 가까운 같은 글자
 ![image](https://user-images.githubusercontent.com/102525066/206894725-e8468577-6462-4f02-b135-c478e62f88c3.png)
 
-11.
+### 11. 기사 단원의 무기(소수찾기 공식 활용)
+![image](https://user-images.githubusercontent.com/102525066/210228286-b905cc74-1821-430b-859c-d0421f8f66c2.png)
+
 12.
 13.
 14.
