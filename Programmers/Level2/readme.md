@@ -39,7 +39,9 @@
 ![image](https://user-images.githubusercontent.com/102525066/210129554-c75a11e9-a7ad-4157-a40d-9ec22e75c383.png)
 ![image](https://user-images.githubusercontent.com/102525066/210129562-8d899c41-3de0-42ca-9d62-2e3bd68e0b9d.png)
 
-## 14.
+## 14. 마법의 엘리베이터
+![image](https://user-images.githubusercontent.com/102525066/210193834-3b4543ad-6049-46a5-8a28-0c6a1d23f094.png)
+
 ## 15.
 ## 16.
 ## 17.
