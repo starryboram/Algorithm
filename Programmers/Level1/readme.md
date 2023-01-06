@@ -1,6 +1,10 @@
 # Level1. 문제 풀이(업데이트 예정)
 ### 1. 최대공약수와 최소공배수
+![image](https://user-images.githubusercontent.com/102525066/210927229-12fac162-eab6-4b7b-ba9d-c818accab023.png)
+
 ### 2. 예산
+![image](https://user-images.githubusercontent.com/102525066/210927325-bb408335-a843-476f-9787-ef72b40b7c77.png)
+
 ### 3. 콜라 문제
 ![image](https://user-images.githubusercontent.com/102525066/210032040-a2a8254a-ffac-44fb-afa0-a257971431dd.png)
 ![image](https://user-images.githubusercontent.com/102525066/210032064-08eee18a-566b-47d5-9646-ea75a131ff36.png)
