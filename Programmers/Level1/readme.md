@@ -36,7 +36,10 @@
 ### 11. 기사 단원의 무기(소수찾기 공식 활용)
 ![image](https://user-images.githubusercontent.com/102525066/210228286-b905cc74-1821-430b-859c-d0421f8f66c2.png)
 
-12.
+### 12. 실패율
+![image](https://user-images.githubusercontent.com/102525066/211150685-1ec131ff-f1fe-47e3-975e-3eaa9db5589b.png)
+![image](https://user-images.githubusercontent.com/102525066/211150700-93f96559-7678-42a3-8777-b46b8a3e3d65.png)
+
 13.
 14.
 15.
