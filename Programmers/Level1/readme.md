@@ -1,6 +1,10 @@
 # Level1. 문제 풀이(업데이트 예정)
 ### 1. 최대공약수와 최소공배수
+![image](https://user-images.githubusercontent.com/102525066/210927229-12fac162-eab6-4b7b-ba9d-c818accab023.png)
+
 ### 2. 예산
+![image](https://user-images.githubusercontent.com/102525066/210927325-bb408335-a843-476f-9787-ef72b40b7c77.png)
+
 ### 3. 콜라 문제
 ![image](https://user-images.githubusercontent.com/102525066/210032040-a2a8254a-ffac-44fb-afa0-a257971431dd.png)
 ![image](https://user-images.githubusercontent.com/102525066/210032064-08eee18a-566b-47d5-9646-ea75a131ff36.png)
@@ -32,7 +36,10 @@
 ### 11. 기사 단원의 무기(소수찾기 공식 활용)
 ![image](https://user-images.githubusercontent.com/102525066/210228286-b905cc74-1821-430b-859c-d0421f8f66c2.png)
 
-12.
+### 12. 실패율
+![image](https://user-images.githubusercontent.com/102525066/211150685-1ec131ff-f1fe-47e3-975e-3eaa9db5589b.png)
+![image](https://user-images.githubusercontent.com/102525066/211150700-93f96559-7678-42a3-8777-b46b8a3e3d65.png)
+
 13.
 14.
 15.
