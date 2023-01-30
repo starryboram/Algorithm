@@ -63,3 +63,6 @@
 
 ## 19. 조건에 맞는 도서 리스트 출력하기
 ![image](https://user-images.githubusercontent.com/102525066/208328999-c994fc47-e467-4839-8f3b-1ae85ab4fdbd.png)
+
+## 20. 평균 일일 대여 요금 구하기
+![image](https://user-images.githubusercontent.com/102525066/215469772-8e63cc3c-2e78-47df-9a7a-aa426ab1d3c2.png)
