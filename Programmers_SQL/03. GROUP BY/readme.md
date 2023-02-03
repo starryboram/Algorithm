@@ -36,3 +36,7 @@
 
 ## 11. 카테고리 별 도서 판매량 집계하기
 ![image](https://user-images.githubusercontent.com/102525066/208286564-da82616a-e0a5-4ad0-922e-5386477cb5f0.png)
+
+## 12. 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기
+![image](https://user-images.githubusercontent.com/102525066/216611383-c69b9ceb-a81b-4cbe-9870-6044942c3842.png)
+
