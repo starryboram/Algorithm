@@ -25,3 +25,6 @@
 ## 8. DATETIME에서 DATE로 형 변환
 ![image](https://user-images.githubusercontent.com/102525066/199263098-e8caabad-03dc-4b56-b215-2bba23552eb7.png)
 ![image](https://user-images.githubusercontent.com/102525066/199263151-ea4114dd-4a9d-439a-8666-7f68f551b590.png)
+
+## 9. 특정 옵션이 포함된 자동차 리스트 구하기
+![image](https://user-images.githubusercontent.com/102525066/218260380-d45f16ee-f0c3-4b17-a45e-a67959ef854d.png)
