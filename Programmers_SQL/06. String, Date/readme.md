@@ -32,3 +32,5 @@
 ## 10. 자동차 평균 대여 기간 구하기
 ![image](https://user-images.githubusercontent.com/102525066/218312733-4a738e0f-a90a-4856-9ed9-4146723e34a1.png)
 ![image](https://user-images.githubusercontent.com/102525066/218312747-d5510df3-e4d0-49ce-b221-232abc911303.png)
+
+## 11. 대여 기록이 존재하는 자동차 리스트 구하기
