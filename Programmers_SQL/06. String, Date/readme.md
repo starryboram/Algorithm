@@ -29,8 +29,14 @@
 ## 9. 특정 옵션이 포함된 자동차 리스트 구하기
 ![image](https://user-images.githubusercontent.com/102525066/218260380-d45f16ee-f0c3-4b17-a45e-a67959ef854d.png)
 
-## 10. 자동차 평균 대여 기간 구하기
+## 10. 자동차 대여 기록에서 장기/단기 대여 구분하기
+![image](https://user-images.githubusercontent.com/102525066/220097250-31d3ecc5-11a1-4493-834e-6ffc9289f0cd.png)
+
+## 11. 자동차 평균 대여 기간 구하기
 ![image](https://user-images.githubusercontent.com/102525066/218312733-4a738e0f-a90a-4856-9ed9-4146723e34a1.png)
 ![image](https://user-images.githubusercontent.com/102525066/218312747-d5510df3-e4d0-49ce-b221-232abc911303.png)
 
-## 11. 대여 기록이 존재하는 자동차 리스트 구하기
+## 12. 대여 기록이 존재하는 자동차 리스트 구하기
+![image](https://user-images.githubusercontent.com/102525066/220097349-aede50e0-e5de-4182-8166-9c7d5b8f6fac.png)
+![image](https://user-images.githubusercontent.com/102525066/220097398-393c6183-c68c-4171-89f8-b45448d87939.png)
+
