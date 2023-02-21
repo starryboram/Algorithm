@@ -40,3 +40,7 @@
 ## 12. 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기
 ![image](https://user-images.githubusercontent.com/102525066/216611383-c69b9ceb-a81b-4cbe-9870-6044942c3842.png)
 
+## 13. 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기
+![image](https://user-images.githubusercontent.com/102525066/220282240-3c457ce2-686c-4b75-bee3-65ef902fbe3b.png)
+![image](https://user-images.githubusercontent.com/102525066/220282302-58dfc8ea-40e3-4649-8243-5c00e09d73c4.png)
+
