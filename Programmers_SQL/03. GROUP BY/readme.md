@@ -44,3 +44,4 @@
 ![image](https://user-images.githubusercontent.com/102525066/220282240-3c457ce2-686c-4b75-bee3-65ef902fbe3b.png)
 ![image](https://user-images.githubusercontent.com/102525066/220282302-58dfc8ea-40e3-4649-8243-5c00e09d73c4.png)
 
+## 14. 저자 별 카테고리 별 매출액 집계하기
