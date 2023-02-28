@@ -40,3 +40,9 @@
 ![image](https://user-images.githubusercontent.com/102525066/220097349-aede50e0-e5de-4182-8166-9c7d5b8f6fac.png)
 ![image](https://user-images.githubusercontent.com/102525066/220097398-393c6183-c68c-4171-89f8-b45448d87939.png)
 
+## 13. 자동차 대여 기록 별 대여 금액 구하기
+![image](https://user-images.githubusercontent.com/102525066/221102027-0251b461-c550-435b-abe6-c0a0bd7e2629.png)
+![image](https://user-images.githubusercontent.com/102525066/221102082-1fb23521-29f6-4230-a5e4-476033684f88.png)
+![image](https://user-images.githubusercontent.com/102525066/221102121-faf20034-c759-4d06-aa7f-bc6b1284f99c.png)
+
+

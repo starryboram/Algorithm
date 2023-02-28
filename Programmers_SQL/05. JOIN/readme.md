@@ -44,6 +44,5 @@
 ![image](https://user-images.githubusercontent.com/102525066/219672343-c7ae0e72-d2ab-4135-a925-b9dcd295f613.png)
 ![image](https://user-images.githubusercontent.com/102525066/219672582-18ed4b42-b2d4-4499-bb42-b86e5a4c3140.png)
 
-
-
+## 12. 상품을 구매한 회원 비율 구하기
 
