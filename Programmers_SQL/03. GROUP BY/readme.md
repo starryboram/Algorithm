@@ -45,3 +45,10 @@
 ![image](https://user-images.githubusercontent.com/102525066/220282302-58dfc8ea-40e3-4649-8243-5c00e09d73c4.png)
 
 ## 14. 저자 별 카테고리 별 매출액 집계하기
+![image](https://user-images.githubusercontent.com/102525066/222135522-3bbe5b56-a741-47e2-a157-bfe49c9bfb0c.png)
+![image](https://user-images.githubusercontent.com/102525066/222135606-88227540-e70c-4295-94ad-8705c21e9c1f.png)
+![image](https://user-images.githubusercontent.com/102525066/222135665-452bb7ae-9ad7-4f8c-82be-fde8cdbf50f9.png)
+
+## 15. 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기
+![image](https://user-images.githubusercontent.com/102525066/222135823-60e0d3c9-e21f-4c56-bdd6-293713b50d33.png)
+![image](https://user-images.githubusercontent.com/102525066/222135887-50365a27-777a-4f74-9723-6254c796c986.png)
