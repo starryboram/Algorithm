@@ -43,7 +43,10 @@
 ![image](https://user-images.githubusercontent.com/102525066/211150685-1ec131ff-f1fe-47e3-975e-3eaa9db5589b.png)
 ![image](https://user-images.githubusercontent.com/102525066/211150700-93f96559-7678-42a3-8777-b46b8a3e3d65.png)
 
-14.
+### 14. 카드 뭉치
+![image](https://user-images.githubusercontent.com/102525066/222908124-932194d7-cf8e-4e0d-a4ac-e298e5fec668.png)
+![image](https://user-images.githubusercontent.com/102525066/222908143-9fb9557d-b8af-4fc5-b40a-160fca235cb4.png)
+
 ### 15. 둘 만의 암호
 ![image](https://user-images.githubusercontent.com/102525066/216766603-794202b9-438e-4b83-be47-cd3a7616c45b.png)
 
