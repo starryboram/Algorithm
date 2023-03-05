@@ -65,3 +65,5 @@
 
 ### 20. 콜라즈 추측
 ![image](https://user-images.githubusercontent.com/102525066/196424514-1c011336-729e-4846-a62b-3bbb8b70213f.png)
+
+### 21. 대충 만든 자판
